@@ -22,9 +22,9 @@ https://steemit.com/python/@howo/image-recognition-for-automation-with-python
 
 # Packages Necessary for Installation
 pip3 install opencv-python
-pip3 install numpy
-pip3 install python3_xlib
-pip3 install pyautogui
+<br />pip3 install numpy
+<br />pip3 install python3_xlib
+<br />pip3 install pyautogui
 
 # Steps to Implementation
 In order for the program to work on your computer, complete the following steps:
